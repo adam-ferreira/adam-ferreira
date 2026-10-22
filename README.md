@@ -9,4 +9,6 @@ I work on what makes a mobile app testable: test frameworks, CI, test data throu
 
 **Stack**: Appium · Flutter · iOS · Android · BrowserStack · Java / TestNG / Cucumber · TypeScript / WebdriverIO · CodeceptJS / Playwright · GitLab CI · Xray / Jira · Allure
 
+**Creative web** (my portfolio): Astro · three.js / WebGL · matter-js physics · Lenis smooth scroll
+
 **Links**: [Portfolio & interactive CV (EN / FR)](https://adam-ferreira.github.io/) · [LinkedIn](https://www.linkedin.com/in/ad-ferreira)
